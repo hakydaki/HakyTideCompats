@@ -1,0 +1,7 @@
+{
+    "item": "sullysmod:piranha",
+    "description": "Aggressive fish found in jungles and mangroves. They will attack any mob that has been damaged, even going as far as to jump out of the water.",
+    "page": "biome",
+    "location": "Jungle",
+    "climate": "warm"
+ }
