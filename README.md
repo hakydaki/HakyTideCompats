@@ -5,4 +5,7 @@ Currently adds fishing journal entries for the following fish -
 - Lanternfish
 - Piranha
 
-Coming soon - Support for hybrid aquatic fish!
+TODO 
+
+- Support for hybrid aquatic fish!
+- Support for fintastic
